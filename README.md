@@ -1,4 +1,6 @@
 # dictionary
 Uzb Rus Eng engineering dictionary
 
-not complete
+Using python django first
+
+Not complete
